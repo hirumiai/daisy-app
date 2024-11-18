@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DaisyApp</string>
+    <string name="daisy_app_logo">Daisy App Logo</string>
+    <string name="welcome_msg">Welcome to DAISY!</string>
+    <string name="motto"><![CDATA[Quickly Diagnose, \nConfidently Care.]]></string>
+    <string name="desc_welcome">Let\'s Check!</string>
+    <string name="button_account">Create Account</string>
+    <string name="have_account">Already Have An Account</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="enter_your_username">Enter your name</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="error_password_too_short">Password cannot be less than 8 characters!</string>
+    <string name="message_signup_page">Start by creating your account on DAISY</string>
+    <string name="title_signup_page">Register</string>
+    <string name="name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Create Account</string>
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Login with your account on DAISY</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="title_reset_password_page">Reset Password</string>
+    <string name="message_reset_password_page">Enter the email you registered with \non DAISY to receive a password \nreset link</string>
+    <string name="send">Send</string>
+</resources>
