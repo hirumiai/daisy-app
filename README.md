@@ -1,3 +1,3 @@
 # DAISY APP - A simple app to check your skin.
 
-Motto: "Quickly Diagnose, Confidently Care."
+Motto Kami: "Quickly Diagnose, Confidently Care."
