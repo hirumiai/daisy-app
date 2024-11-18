@@ -1,4 +1,3 @@
 # DAISY APP - A simple app to check your skin.
-Create with Smile.
 
-# Description
+Motto: "Quickly Diagnose, Confidently Care."
