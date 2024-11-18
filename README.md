@@ -1,2 +1,2 @@
-# DAISY APP
-Create with Smile.
+# DAISY APP - A simple app to check your skin.
+Create with Smile.ssssssss
